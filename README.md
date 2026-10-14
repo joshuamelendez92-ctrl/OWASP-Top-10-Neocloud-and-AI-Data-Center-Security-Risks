@@ -5,6 +5,8 @@
 > **FORGE** - Harden the metal beneath the model.
 >
 > 🌐 **Website:** [https://forge-framework.io](https://forge-framework.io)
+>
+> 📖 **Security Glossary:** [FORGE Security Glossary](GLOSSARY.md)
 
 ## Executive Summary
 
